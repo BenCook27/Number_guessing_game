@@ -4,7 +4,6 @@ import random
 # Player to guess the number 
 # Compare if player guess is higher/lower or matches the computer number
 # Tell the player when the guess the correct number and how many guesses it took them
-
 # Extention - Write the code for the computer to guess your number and menu for the player to choose what style of game to play
 
 
